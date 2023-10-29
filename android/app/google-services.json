@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054189314243",
+    "project_id": "dog-whistle-de225",
+    "storage_bucket": "dog-whistle-de225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054189314243:android:fd6b92ddfd1651aefcc276",
+        "android_client_info": {
+          "package_name": "com.darshankomu.dog_whistle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7PNxgIcvKokA6Xpo2jxUD_SRkVZw4BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
